@@ -96,6 +96,7 @@ Make sure you have **Python 3.7.9** installed. Then create and activate a virtua
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
+python -m pip install --upgrade pip
 ```
 
 ### Step 3 — Install PyTorch (CUDA 11.7)
